@@ -11,7 +11,7 @@ class Intro extends React.Component {
           <div className="table-cell">
             <div className="container">
               <h1 className="intro-title mb-4">Bem-vindo - Advocacia LG.</h1>
-              <h1 className="nameLawyer"> Dr. Luiz Gustavo Chimpa Cardozo</h1>
+              <h1 className="nameLawyer"> Dr. Luiz Gustavo Cardozo</h1>
               <h5 className="especialista">Advogado Criminalista, especialista em direito penal e processo penal</h5>
               <h5 className="especialista">Endereço: Avenida dos Estudantes, nº 10000 - Ibiporã/PR</h5>
               <h5 className="especialista">Contato: WhatsApp (43)9999-9999</h5>
